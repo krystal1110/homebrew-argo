@@ -1,6 +1,6 @@
 cask "argo" do
-  version "1.0.9"
-  sha256 "0327d93efdc7e7cd632fa341ccc53eb46ebdce7d8714f796c8afeaee8f869b56"
+  version "1.0.10"
+  sha256 "0a9a9092a6e87c5120905481078b388ac6102fd089ab5ff81ff1f79ea5c75579"
 
   url "https://github.com/krystal1110/Argo/releases/download/v#{version}/Argo-#{version}.dmg"
   name "Argo"
